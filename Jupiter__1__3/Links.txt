@@ -1,0 +1,123 @@
+// https://www.youtube.com/@your-advisor-friend/playlists       HTML
+
+// https://www.youtube.com/watch?v=GAdOH9DNRXs                  project
+
+// https://www.youtube.com/watch?v=3Kq1MIfTWCE                  cyber
+
+// https://drive.google.com/drive/folders/11_WVbcLFqwkagS7vjpNMrRFEaLbmo7d2     cyber
+
+// https://alison.com/course/ethical-hacker     cyber
+
+// https://www.youtube.com/@HarnoorSinghOfficial/videos         sde 
+
+// learner map
+
+// https://www.youtube.com/@somratdutta/streams             sde
+
+// https://www.youtube.com/@ashishtorq/videos               podcst
+
+// https://www.youtube.com/watch?v=Rgvzt0D8bR4&list=PLjVLYmrlmjGejs6AFv8lgJj3t47ScLuvw          cyber
+
+// https://www.youtube.com/watch?v=XHzQvq-ltAo          py data science
+
+// https://www.youtube.com/@your-advisor-friend/featured        html
+
+
+// https://www.youtube.com/user/crashcourse
+
+
+// https://www.youtube.com/@harkirat1               DSA
+
+
+
+// https://www.youtube.com/@TheCyberZeel/featured           SHIV
+
+// https://www.youtube.com/@6PackProgrammer/videos                 DSA
+
+
+// https://www.youtube.com/watch?v=3Kq1MIfTWCE              CYBER
+
+// https://alison.com/course/ethical-hacker
+
+
+// https://www.youtube.com/@himanshukhosla          DSA
+
+// https://www.youtube.com/watch?v=8wysIxzqgPI          DSA
+
+// https://www.youtube.com/@KeertiPurswani/videos           DSA
+
+// https://www.youtube.com/@prateik3/playlists      DSA
+
+
+// https://www.javatpoint.com/      DSA
+
+
+// https://codeforwin.org/c-programming/array-programming-exercises-and         DSA
+
+
+// https://www.algoexpert.io/product?r=ads                  
+
+// https://drive.google.com/drive/folders/1CdrveRU2iXGabR-nQ-G1o9GC4GusU-92
+
+
+// https://www.khanacademy.org
+
+
+// https://www.odinschool.com/
+
+// https://codingblocks.com/python-for-data-science.html
+
+
+// https://learn.stanford.edu/CS-SCH-ThankYou.html?aliId=eyJpIjoicjYyKytVeVYyUGFuUjYyNSIsInQiOiJUUEJNODBlSVpYRlRoeDNqeTJOdll3PT0ifQ%253D%253D
+
+
+// https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview
+
+
+// https://swayamopenid.b2clogin.com/swayamopenid.onmicrosoft.com/B2C_1_swayam2/oauth2/v2.0/authorize?response_type=code&client_id=9d496f4e-cf40-4487-b6e5-ece40fd214dd&redirect_uri=https%3A%2F%2Fonlinecourses.swayam2.ac.in%2Fwso_ok&scope=https%3A%2F%2Fswayamopenid.onmicrosoft.com%2Fapi%2Fuser_impersonation+offline_access+openid&state=DWdGWydRvnMh6YdiLDXR4vxnhg6NMW&access_type=authorization_code
+
+// https://codefirstgirls.com/courses/classes/coding-kickstarter/#cksinternational
+
+
+// https://medium.com/javarevisited/top-20-sites-to-learn-coding-in-2020-f57ff63d9cb3
+
+// https://www.codecademy.com/checkout?plan_id=proPaytmGoldAnnualV3&redirect_url=%2Flearn%2Fpaths%2Fcode-foundations%2F%3Fg_network%3Dg%26g_productchannel%3D%26g_adid%3D526540401280%26g_locinterest%3D%26g_keyword%3Dbest%2520website%2520to%2520learn%2520coding%26g_acctid%3D243-039-7011%26g_adtype%3D%26g_keywordid%3Dkwd-341833734653%26g_ifcreative%3D%26g_campaign%3Daccount%26g_locphysical%3D21341%26g_adgroupid%3D102650141953%26g_productid%3D%26g_source%3D%7Bsourceid%7D%26g_merchantid%3D%26g_placement%3D%26g_partition%3D%26g_campaignid%3D10074200774%26g_ifproduct%3D%26utm_id%3Dt_kwd-341833734653%3Aag_102650141953%3Acp_10074200774%3An_g%3Ad_c%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26utm_term%3Dbest%2520website%2520to%2520learn%2520coding%26utm_campaign%3DROW_Career_Path%3A_Pro_-_Exact%26utm_content%3D526540401280%26g_adtype%3Dsearch%26g_acctid%3D243-039-7011
+
+
+// https://codefirstgirls.com/courses/classes/coding-kickstarter/#cksinternational
+
+
+
+// https://www.youtube.com/@NeatRoots/videos
+
+
+// https://www.squadhelp.com
+
+// https://myjobstreet.jobstreet.com.sg/registration/register-create-resume.php?register_through=3&eb=&spe=193&firststate_id=SG&j=10844523&s=20&site=sg&solToken=0~61215b80-b110-4b8c-9962-bd90dd911649&sectionRank
+
+
+// https://quescol.com/interview-preparation/prime-number-program-in-c
+
+
+// https://www.youtube.com/watch?v=2pHf7RG7ZyI
+
+
+// https://crop-circle.imageonline.co/
+
+// https://www.spoj.com/problems/classical/
+
+// https://search.brave.com/search?q=gsoc+eligibility&source=web
+
+
+// https://studio.code.org/courses
+
+
+// https://www.youtube.com/@BushcraftHakankarahan/videos
+
+
+// https://www.topcoder.com/customer/data-science/
+
+// https://prepinsta.com/paid-materials/
+
+// https://programiz.pro/catalog?language=dsa
+
